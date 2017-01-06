@@ -4,11 +4,16 @@
 
 Но пока поддержка цветовых CSS-функций не реализована, [временно][3] мы можем использовать PostCSS и компилировать их как обычные цвета. Или мы можем экспериментировать и исследовать силу CSS цветовых `rgba()`-функций, чтобы менять цвет на лету! Давайте посмотрим, как это можно использовать.
 
-## Как это работает ![basic idea][4]
+## Как это работает
+
+![basic idea][4]
 
 В программах для дизайна, когда мы помещаем черный и белый блоки над большим синим блоком (как в примере), в результате мы получим соответственно более светлый или более темный синий цвет.
 
-Это происходит потому, что при уменьшении непрозрачности, цвета будут смешиваться на основе того, белый это или черный. Знаете, что произойдет, если изменить синий фон на зеленый? Верно![Basic Idea Green][5]!
+Это происходит потому, что при уменьшении непрозрачности, цвета будут смешиваться на основе того, белый это или черный. Знаете, что произойдет, если изменить синий фон на зеленый? Верно!
+
+![basic idea green][5]
+
 Как видите, при изменении цвета фона маленькие блоки стали выглядеть иначе: мы получили светлый и темный зеленый. Также мы можем изменить значение непрозрачности, чтобы выбрать более светлый или темный оттенок. Давайте отработаем этот базовый навык, чтобы перейти к реальным примерам.
 
 ## Применение концепции
@@ -250,25 +255,25 @@
  [1]: https://drafts.csswg.org/css-color/#modifying-colors
  [2]: https://github.com/postcss/postcss-color-function
  [3]: https://cloudfour.com/thinks/building-themes-with-css4-color-features/
- [4]: img/basic-idea-768x442.jpg%20768w
- [5]: img/basic-idea-green-768x442.jpg%20768w
+ [4]: img/basic-idea.jpg
+ [5]: img/basic-idea-green.jpg
  [6]: https://trello.com
- [7]: img/trello-768x211.jpg%20768w
- [8]: img/Screen-Shot-2016-10-22-at-6.38.58-AM-768x156.png%20768w
+ [7]: img/trello.jpg
+ [8]: img/Screen-Shot-2016-10-22-at-6.38.58-AM.png
  [9]: img/theming-header.gif
  [10]: http://codepen.io/shadeed/pen/79bb883e8f17c41a90f46c8fdf1a40e2/
  [11]: http://codepen.io/shadeed
  [12]: http://codepen.io
- [13]: img/Screen-Shot-2016-10-22-at-6.56.33-AM-768x307.png%20768w
- [14]: img/article-header-768x306.jpg%20768w
+ [13]: img/Screen-Shot-2016-10-22-at-6.56.33-AM.png
+ [14]: img/article-header.jpg
  [15]: http://codepen.io/shadeed/pen/fc254c1f120cc38a1b199f96d1d07a85/
  [16]: http://codepen.io/shadeed/pen/f822dd1cac006c00d5418cddac19efac/
- [17]: img/gradients-768x490.jpg%20768w
+ [17]: img/gradients.jpg
  [18]: http://codepen.io/shadeed/pen/808cbbdee59ddffdd39c91c2f1a290f1/
  [19]: http://codepen.io/shadeed/pen/760a044dd7e6a7fed972ce3ee08dc02a/
  [20]: http://codepen.io/shadeed/pen/eb5a955b69c2e31b3dcc0e9131db21b2/
  [21]: http://codepen.io/shadeed/pen/c2a60d0ed9e0313a76cc2c24e05402c7/
- [22]: img/images-768x227.jpg%20768w
+ [22]: img/images.jpg
  [23]: http://codepen.io/shadeed/pen/759699e8fc8d5253540fd33880cafa81/
  [24]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables
  [25]: http://codepen.io/shadeed/pen/a78a3d28eee617784cc75e2fa3dfad76/
