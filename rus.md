@@ -67,7 +67,7 @@
 <p data-height="350" data-theme-id="0" data-slug-hash="XpEwRy" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="XpEwRy" class="codepen"><a href="http://codepen.io/FMRobot/pen/XpEwRy/">Посмотреть пример шапки можно на CodePen</a>.</p>
 
 
-### Шапка статьи ![Article Header][13]
+### Шапка статьи
 
 В этом примере использование `rgba()` будет полезно для:
 
@@ -113,7 +113,7 @@
         box-shadow: inset 0 3px 5px 0 rgba(0, 0, 0, 0.2);
     }
 
-<p data-height="300" data-theme-id="0" data-slug-hash="egMaeP" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="Кнопки" class="codepen"><a href="http://codepen.io/FMRobot/pen/egMaeP/">Посмотреть пример кнопок можно на CodePen.</a></p>
+<p data-height="350" data-theme-id="0" data-slug-hash="egMaeP" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="Кнопки" class="codepen"><a href="http://codepen.io/FMRobot/pen/egMaeP/">Посмотреть пример кнопок можно на CodePen.</a></p>
 
 
 ### Градиенты
@@ -151,7 +151,7 @@
 
 <iframe src="https://player.vimeo.com/video/188392007" width="640" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p data-height="600" data-theme-id="0" data-slug-hash="rjvNpV" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="rjvNpV" class="codepen"><a href="http://codepen.io/FMRobot/pen/rjvNpV/">Посмотреть пример градиентов можно на CodePen.</a></p>
+<p data-height="550" data-theme-id="0" data-slug-hash="rjvNpV" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="rjvNpV" class="codepen"><a href="http://codepen.io/FMRobot/pen/rjvNpV/">Посмотреть пример градиентов можно на CodePen.</a></p>
 
 
 ### Вложенный элемент
@@ -162,14 +162,14 @@
 
 То же может использоваться для создания динамических эффектов при наведении:
 
-<p data-height="400" data-theme-id="0" data-slug-hash="wgjvmY" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="wgjvmY" class="codepen"><a href="http://codepen.io/FMRobot/pen/wgjvmY/">Посмотреть пример эффектов при наведении можно на CodePen.</a></p>
+<p data-height="300" data-theme-id="0" data-slug-hash="wgjvmY" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="wgjvmY" class="codepen"><a href="http://codepen.io/FMRobot/pen/wgjvmY/">Посмотреть пример эффектов при наведении можно на CodePen.</a></p>
 
 
 ### Тёмные/светлые вариации цветовой схемы
 
 Мы можем использовать эту идею для генерации различных оттенков определённой цветовой палитры через размещение псевдоэлемента над каждым цветным блоком с определённым значением `rgba()`.
 
-<p data-height="265" data-theme-id="0" data-slug-hash="zNjYaq" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="zNjYaq" class="codepen"><a href="http://codepen.io/FMRobot/pen/zNjYaq/">Посмотреть пример [цветовой палитры][21] можно на [CodePen][12].</a></p>
+<p data-height="400" data-theme-id="0" data-slug-hash="zNjYaq" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="zNjYaq" class="codepen"><a href="http://codepen.io/FMRobot/pen/zNjYaq/">Посмотреть пример [цветовой палитры][21] можно на [CodePen][12].</a></p>
 
 
 ### Эффекты изображения
@@ -233,7 +233,7 @@
 
 Сочетая CSS-переменные и `rgba()`, мы можем делать раскладки и цвета более динамичными без переопределения нового цвета для каждого элемента.
 
-<p data-height="600" data-theme-id="0" data-slug-hash="PWeodd" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="PWeodd" class="codepen"><a href="http://codepen.io/FMRobot/pen/PWeodd/">Посмотреть пример шапки с CSS-переменными можно на CodePen.</a></p>
+<p data-height="550" data-theme-id="0" data-slug-hash="PWeodd" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="PWeodd" class="codepen"><a href="http://codepen.io/FMRobot/pen/PWeodd/">Посмотреть пример шапки с CSS-переменными можно на CodePen.</a></p>
 
 
 ## Что нужно принимать во внимание
