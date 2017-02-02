@@ -64,7 +64,7 @@
 
 ![Стилизация шапки][9]
 
-Посмотреть пример [шапки][10] можно на [CodePen][12].
+<p data-height="265" data-theme-id="0" data-slug-hash="XpEwRy" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="XpEwRy" class="codepen"><a href="http://codepen.io/FMRobot/pen/XpEwRy/">Посмотреть пример шапки можно на CodePen</a>.</p>
 
 
 ### Шапка статьи ![Article Header][13]
@@ -94,6 +94,7 @@
     }
 
 Посмотреть пример [шапки статьи][15] можно на [CodePen][12].
+<p data-height="265" data-theme-id="0" data-slug-hash="MJVdvX" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="MJVdvX" class="codepen"><a href="http://codepen.io/FMRobot/pen/MJVdvX/">Посмотреть пример шапки статьи можно на CodePen</a>.</p>
 
 
 ### Кнопки
@@ -113,7 +114,7 @@
         box-shadow: inset 0 3px 5px 0 rgba(0, 0, 0, 0.2);
     }
 
-Посмотреть пример [кнопок][16] можно на [CodePen][12].
+<p data-height="265" data-theme-id="0" data-slug-hash="egMaeP" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="Кнопки" class="codepen"><a href="http://codepen.io/FMRobot/pen/egMaeP/">Посмотреть пример кнопок можно на CodePen.</a></p>
 
 
 ### Градиенты
@@ -149,25 +150,27 @@
         }
     }
 
-Посмотреть пример [градиентов][18] можно на [CodePen][12].
+<iframe src="https://player.vimeo.com/video/188392007" width="640" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p data-height="265" data-theme-id="0" data-slug-hash="rjvNpV" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="rjvNpV" class="codepen"><a href="http://codepen.io/FMRobot/pen/rjvNpV/">Посмотреть пример градиентов можно на CodePen.</a></p>
 
 
 ### Вложенный элемент
 
 Если у нас есть навигация списком в шапке, мы можем добавить для неё цвет фона с `rgba()`. Это сделает фон немного прозрачным, поэтому он будет смешиваться с фоном родителя.
 
-Посмотреть пример [вложенных элементов][19] можно на [CodePen][12].
+<p data-height="265" data-theme-id="0" data-slug-hash="qRYBxR" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="qRYBxR" class="codepen"><a href="http://codepen.io/FMRobot/pen/qRYBxR/">Посмотреть пример вложенных элементов можно на CodePen.</a></p>
 
 То же может использоваться для создания динамических эффектов при наведении:
 
-Посмотреть пример [эффектов при наведении][20] можно на [CodePen][12].
+<p data-height="265" data-theme-id="0" data-slug-hash="wgjvmY" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="wgjvmY" class="codepen"><a href="http://codepen.io/FMRobot/pen/wgjvmY/">Посмотреть пример эффектов при наведении можно на CodePen.</a></p>
 
 
 ### Тёмные/светлые вариации цветовой схемы
 
 Мы можем использовать эту идею для генерации различных оттенков определённой цветовой палитры через размещение псевдоэлемента над каждым цветным блоком с определённым значением `rgba()`.
 
-Посмотреть пример [цветовой палитры][21] можно на [CodePen][12].
+<p data-height="265" data-theme-id="0" data-slug-hash="zNjYaq" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="zNjYaq" class="codepen"><a href="http://codepen.io/FMRobot/pen/zNjYaq/">Посмотреть пример [цветовой палитры][21] можно на [CodePen][12].</a></p>
 
 
 ### Эффекты изображения
@@ -191,7 +194,7 @@
         /* здесь будут ваши расширенные стили */
     }
 
-Посмотреть пример [изображений][23] можно на [CodePen][12].
+<p data-height="265" data-theme-id="0" data-slug-hash="apGbjm" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="apGbjm" class="codepen">See the Pen <a href="http://codepen.io/FMRobot/pen/apGbjm/">Посмотреть пример изображений можно на CodePen.</a></p>
 
 
 ## Создание тем с CSS-переменными
@@ -231,7 +234,7 @@
 
 Сочетая CSS-переменные и `rgba()`, мы можем делать раскладки и цвета более динамичными без переопределения нового цвета для каждого элемента.
 
-Посмотреть пример [шапки с CSS-переменными][25] можно на [CodePen][12].
+<p data-height="265" data-theme-id="0" data-slug-hash="PWeodd" data-default-tab="result" data-user="FMRobot" data-embed-version="2" data-pen-title="PWeodd" class="codepen"><a href="http://codepen.io/FMRobot/pen/PWeodd/">Посмотреть пример шапки с CSS-переменными можно на CodePen.</a></p>
 
 
 ## Что нужно принимать во внимание
